@@ -9,11 +9,17 @@ Side-by-side Half - parallel and crosseye
 
 Red/Cyan anaglyph
 
+It's also possible to output the depthmap.
+
 .
 
 Anaglyph example:
 
 ![anaglyph](https://github.com/instant-high/2D-to-3D-Video-Image-ONNX/assets/77229558/143a6822-7343-4e5a-881d-82276bdb89c8)
+
+depthmap:
+
+![depth](https://github.com/instant-high/2D-to-3D-Video-Image-ONNX/assets/77229558/8110d274-ae12-41a1-9d81-ac6014033818)
 
 SBS crosseye example:
 
